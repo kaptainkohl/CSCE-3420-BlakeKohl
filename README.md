@@ -1,2 +1,4 @@
-# CSCE-3420-BlakeKohl
-CSCE-3420
+# CSCE-3420
+## Blake Kohl
+
+**Introduction to Internet**
